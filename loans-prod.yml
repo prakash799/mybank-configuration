@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to My Bank Application Prod APIs"
+  contactDetails:
+    name: "Elon Musk"
+    email: "elonmusk@info.com"
+  onCallSupport:
+    -(555)256-585
+    -(555)698-532

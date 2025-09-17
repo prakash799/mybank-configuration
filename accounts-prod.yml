@@ -1,0 +1,18 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MyBank accounts related Prod APIs"
+  contactDetails:
+    name: "John Doe- Manager"
+    email: "john@info.com"
+  onCallSupport:
+    - (555)555-258
+    - (555)523-684

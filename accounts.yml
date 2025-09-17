@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to MyBank accounts related Local APIs"
+  contactDetails:
+    name: "John Doe- Developer"
+    email: "john@info.com"
+  onCallSupport:
+    - (555)555-258
+    - (555)523-684

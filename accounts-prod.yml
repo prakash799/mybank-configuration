@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to MyBank accounts related Prod APIs"
+  message: "Welcome to MyBank accounts related Productionssss APIs"
   contactDetails:
     name: "John Doe- Manager"
     email: "{cipher}b281dcc382aee40b5dd47266d89773b76b8867042b7fe2bd2972dc997e91622b"

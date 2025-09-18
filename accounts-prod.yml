@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MyBank accounts related Prod APIs"
   contactDetails:
     name: "John Doe- Manager"
-    email: "john@info.com"
+    email: "b281dcc382aee40b5dd47266d89773b76b8867042b7fe2bd2972dc997e91622b"
   onCallSupport:
     - (555)555-258
     - (555)523-684

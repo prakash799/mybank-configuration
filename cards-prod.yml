@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to MyBank cards related Prod APIs"
+  message: "Welcome to MyBank cards related Production APIs"
   contactDetails:
     name: "John Snow - Developer"
     email: "johnny@info.com"

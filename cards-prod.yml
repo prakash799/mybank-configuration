@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to MyBank cards related Production APIs"
   contactDetails:
-    name: "John Snow - Developer"
+    name: "John Carter - Developer"
     email: "johnny@info.com"
   onCallSupport:
     - (555)555-258

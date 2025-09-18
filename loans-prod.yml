@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to My Bank Application Prod APIs"
+  message: "Welcome to My Bank Application Production APIs"
   contactDetails:
     name: "Elon Musk"
     email: "elonmusk@info.com"
